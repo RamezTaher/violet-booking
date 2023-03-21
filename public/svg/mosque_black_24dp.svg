@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24">
+  <g id="mosque_black_24dp" transform="translate(0.5)">
+    <g id="Group_18" data-name="Group 18">
+      <rect id="Rectangle_37" data-name="Rectangle 37" width="24" height="24" fill="none"/>
+    </g>
+    <g id="Group_19" data-name="Group 19">
+      <path id="Path_823" data-name="Path 823" d="M24,7c0-1.1-2-3-2-3s-2,1.9-2,3a1.968,1.968,0,0,0,1,1.72V13H19V11a1.985,1.985,0,0,0-1.55-1.94,3.87,3.87,0,0,0-1.19-5.22L12,1,7.74,3.84A3.887,3.887,0,0,0,6,7.09a3.823,3.823,0,0,0,.55,1.96A2,2,0,0,0,5,11v2H3V8.72A1.968,1.968,0,0,0,4,7C4,5.9,2,4,2,4S0,5.9,0,7A1.968,1.968,0,0,0,1,8.72V21H11V17a1,1,0,0,1,2,0v4H23V8.72A1.968,1.968,0,0,0,24,7ZM8.85,5.5,12,3.4l3.15,2.1A1.911,1.911,0,0,1,14.09,9H9.91A1.911,1.911,0,0,1,8.85,5.5ZM21,19H15V17a3,3,0,0,0-6,0v2H3V15H7V11H17v4h4Z" fill="#993365" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

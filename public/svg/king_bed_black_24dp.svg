@@ -1,0 +1,12 @@
+<svg id="king_bed_black_24dp" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_33" data-name="Group 33">
+    <rect id="Rectangle_47" data-name="Rectangle 47" width="24" height="24" fill="none"/>
+  </g>
+  <g id="Group_35" data-name="Group 35">
+    <g id="Group_34" data-name="Group 34">
+      <rect id="Rectangle_48" data-name="Rectangle 48" width="5" height="3" transform="translate(6 7)" fill="none"/>
+      <rect id="Rectangle_49" data-name="Rectangle 49" width="5" height="3" transform="translate(13 7)" fill="none"/>
+      <path id="Path_847" data-name="Path 847" d="M20,10V5H4v5H2v7H3.33L4,19H5l.67-2H18.34L19,19h1l.67-2H22V10Zm-9,0H6V7h5Zm7,0H13V7h5Z" fill="#993365"/>
+    </g>
+  </g>
+</svg>

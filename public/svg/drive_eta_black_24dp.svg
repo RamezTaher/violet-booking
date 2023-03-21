@@ -1,0 +1,6 @@
+<svg id="drive_eta_black_24dp" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_835" data-name="Path 835" d="M0,0H24V24H0Z" fill="none"/>
+  <path id="Path_836" data-name="Path 836" d="M18.92,5.01A1.494,1.494,0,0,0,17.5,4H6.5A1.5,1.5,0,0,0,5.08,5.01L3,11v8a1,1,0,0,0,1,1H5a1,1,0,0,0,1-1V18H18v1a1,1,0,0,0,1,1h1a1,1,0,0,0,1-1V11ZM6.85,6H17.14l1.04,3H5.81ZM19,16H5V11.34L5.12,11H18.89l.11.34Z" fill="#993365" stroke="#fff" stroke-width="1"/>
+  <circle id="Ellipse_6" data-name="Ellipse 6" cx="1.5" cy="1.5" r="1.5" transform="translate(6 12)" fill="#993365" stroke="#fff" stroke-width="1"/>
+  <circle id="Ellipse_7" data-name="Ellipse 7" cx="1.5" cy="1.5" r="1.5" transform="translate(15 12)" fill="#993365" stroke="#fff" stroke-width="1"/>
+</svg>
